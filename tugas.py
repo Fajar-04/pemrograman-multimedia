@@ -29,7 +29,7 @@ def stop_music():
         label_status.config(text="Music Stopped")
 
 root = tk.Tk()
-root.title("Simple Music Player Fajar Aptiliawan - 105841101122")
+root.title("Simple Music Player Fajar Apriliawan - 105841101122")
 root.geometry("400x250")
 root.resizable(False, False)
 
